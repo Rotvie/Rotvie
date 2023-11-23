@@ -19,4 +19,5 @@ You can best reach me via [email](mailto:rotvie@gmail.com). I'm always open to i
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/rotvie?label=Follow&style=social)](https://twitter.com/rotvie)
+
 [![Goodreads Follow](https://img.shields.io/badge/Goodreads-372213)](https://goodreads.com/rotvie)
